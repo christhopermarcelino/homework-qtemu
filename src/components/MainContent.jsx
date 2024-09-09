@@ -1,5 +1,5 @@
 import AboutMeetup from "./AboutMeetup";
-import Header from "./Header";
+import Header from "./organisms/Header";
 import Members from "./Members";
 import NextMeetup from "./NextMeetup";
 import PastMeetups from "./PastMeetups";
